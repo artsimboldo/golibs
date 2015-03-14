@@ -1,5 +1,10 @@
 package golibs
 
+/*
+	Fisher-Yates shuffle
+	Uses an interface to bind custom data types
+*/
+
 import (
 	"math/rand"
 	"time"
