@@ -1,8 +1,10 @@
 package golibs
 
 /*
-	Fisher-Yates shuffle
-	Uses an interface to bind custom data types
+	Shuffle(Interface)
+	Implments Fisher-Yates random permutation of a finite set (slice)
+	http://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+	Use Interface to bind custom data types
 */
 
 import (
