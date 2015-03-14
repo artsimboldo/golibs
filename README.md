@@ -1,3 +1,2 @@
 # golibs
-Go libs
 
